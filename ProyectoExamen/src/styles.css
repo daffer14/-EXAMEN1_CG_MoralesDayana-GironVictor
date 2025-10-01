@@ -14,6 +14,7 @@
  body{
  margin:0;
  padding:0;
+ border: 5px solid #f38f14;
  background-color: var(--color-2);
  font-family: var(--font-family-1);
  color: var(--color-3);

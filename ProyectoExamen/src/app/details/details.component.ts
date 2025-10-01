@@ -3,6 +3,7 @@ import { HeaderComponent } from "../header/header.component";
 import { MenubarComponent } from "../menubar/menubar.component";
 import { ToastComponent } from "../toast/toast.component";
 
+
 @Component({
   selector: 'app-details',
   imports: [HeaderComponent, MenubarComponent, ToastComponent],
