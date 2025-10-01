@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    align-items: center;
+}
+.logo{
+    margin-right: 700px;
+}
+.todo{
+    display: flex;
+    flex-direction: column;
+}
