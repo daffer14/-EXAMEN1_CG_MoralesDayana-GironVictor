@@ -1,8 +1,9 @@
-.horizontal{
+.header{
     display: flex;
     justify-content: space-around;
     background-color: rgb(0, 0, 0);
     align-items: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+}
+.logo{
+    margin-right: 700px;
 }

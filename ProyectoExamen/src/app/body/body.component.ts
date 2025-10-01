@@ -6,7 +6,7 @@ import { AccordionComponent } from "../accordion/accordion.component";
 
 @Component({
   selector: 'app-body',
-  imports: [MenubarComponent, Imagen2Component, CardsComponent],
+  imports: [MenubarComponent, Imagen2Component, CardsComponent, AccordionComponent],
   templateUrl: './body.component.html',
   styleUrl: './body.component.css'
 })
